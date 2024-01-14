@@ -10,7 +10,7 @@ I am Jo5629.
 - IMDman56
 - PastaCat
 
-**Some Games I Play**
+**Some Games I Play:**
 - Minetest
 - Modern Warships
 - Unmatched Air Traffic Control
