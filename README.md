@@ -1,22 +1,22 @@
 # Hello World!
 I am Jo5629.
 
-**Favorite Things to Do:**
+## Favorite Things to Do:
 - Play Videogames
 - Write Code
 
-**Some Usernames I Go By:**
+## Some Usernames I Go By:
 - Jo5629
 - IMDman56
 - PastaCat
 
-**Some Games I Play:**
+## Some Games I Play:
 - Minetest
 - Modern Warships
 - Unmatched Air Traffic Control
 - Metalstorm
 
-**My Links:**
+## My Links
 1. [Google Sites](https://sites.google.com/view/j05629)
 2. [Minetest ContentDB](https://content.minetest.net/users/J05629/)
 3. [Minetest Forums](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=41891)
