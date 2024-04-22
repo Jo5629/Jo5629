@@ -4,22 +4,21 @@
 I am Jo5629.
 
 ## Favorite Things to Do:
-- Play Videogames
-- Write Code
+- 🎮 Play Videogames
+- 💻 Write Code
 
-## Some Usernames I Go By:
+## Usernames I Go By:
 - Jo5629
 - IMDman56
 - PastaCat
 
-## Some Games I Play:
+## Games I Play:
 - Minetest
 - Modern Warships
 - Unmatched Air Traffic Control
-- Metalstorm
 
-## My Links
-1. [Google Sites](https://sites.google.com/view/j05629)
+## External Links
+1. [Google Sites](https://sites.google.com/view/jo5629)
 2. [Minetest ContentDB](https://content.minetest.net/users/J05629/)
 3. [Minetest Forums](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=41891)
 4. [Scratch](https://scratch.mit.edu/users/Jo5629/)
